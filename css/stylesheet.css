@@ -1,0 +1,262 @@
+a {
+    color: #222222;
+    text-decoration: none;
+}
+
+::selection {
+    color: white;
+    background: black;
+}
+
+a:visited {
+    color: #222222;
+    text-decoration: none;
+}
+
+body {
+    background-color: #222222;;
+    font-family: "Segoe UI", Verdana, serif;
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    width: 100%;
+    height: 230px;
+    background-color: #222222;
+    box-shadow: 0 0 20px #000000;
+    border-bottom: solid #444444 8px;
+}
+
+.colonne {
+    display: table-cell;
+    padding: 25px;
+}
+
+.colonne:nth-child(2) {
+    vertical-align: middle;
+    color: #CCCCCC;
+    font-size: 32px;
+    font-weight: bold;
+    text-shadow: 1px 1px #111111, 2px 2px #000000;
+}
+
+#entete {
+    width: 1050px;
+    margin: auto;
+    display: table
+}
+
+#connect {
+    height: 50px;
+    width: 380px;
+    padding: 10px;
+    position: absolute;
+    right: 30px;
+    top: 1%;
+    background-color: #AAAAAA;
+    border-radius: 10px;
+    border: 4px solid #111111;
+    box-shadow: 0 0 5px #000000 inset;
+    color: #222222;
+    font-size: 18px;
+    text-align: center;
+}
+
+#connect a {
+    color: #222222;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#connect a :visited {
+    color: #222222;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#corps {
+    float: left;
+    width: 100%;
+    background-color: #EDEDED;
+}
+
+#menu {
+    float: left;
+    width: 20%;
+    min-height: 355px;
+    margin-left: 3px;
+    color: #222222;
+    font-size: 15px;
+}
+
+#menu p {
+    font-weight: bold;
+}
+
+#menu a {
+    color: #222222;
+    text-decoration: none;
+}
+
+#menu a :visited {
+    color: #222222;
+    text-decoration: none;
+}
+
+#menuInt {
+    margin-top: 2px;
+    margin-left: 50px;
+    min-height: 367px;
+}
+
+#texte {
+    float: left;
+    width: 79%;
+    margin-left: 5px;
+    text-align: center;
+    min-height: 380px;
+    color: #222222;
+}
+
+#spacer {
+    clear: both;
+}
+
+#footer {
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    background-color: #222222;
+    border-top: solid #444444 8px;
+    padding-top: 20px;
+    position: absolute;
+    bottom: 0px;
+    box-shadow: 0 -5px 5px #858585;
+    position: relative;
+    color: #CCCCCC;
+    font-size: 12px;
+    text-align: center;
+}
+
+.centreImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%
+}
+
+label {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+h1 {
+    text-shadow: 1px 1px 2px #333333;
+}
+
+* a:hover {
+
+    text-decoration: underline;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#connect a {
+    color: #222222;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text, .text1 {
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    background-color: #d0d5d4;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 0 0 5px #000000 inset;
+    color: #000000;
+    font-size: 18px;
+}
+
+.liste {
+    padding: 10px;
+    background-color: #d0d5d4;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 0 0 5px #000000 inset;
+    color: #000000;
+    font-size: 18px;
+}
+
+.valider {
+    height: 45px;
+    width: 120px;
+    padding: 5px;
+    background-color: #232422;
+    border-radius: 10px;
+    border: 2px solid #828186;
+    box-shadow: 0 0 5px #000000 inset;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+
+}
+
+td {
+    text-align: center;
+    height: 40px;
+    width: 250px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.sstitre {
+    text-shadow: 1px 1px #3e4244;
+}
+
+img, idvalid {
+    padding-right: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#center label {
+    display: inline-block;
+    width: 150px;
+}
+
+span .password {
+    font-size: 300px;
+}
+
+.connection img {
+    width: 20%;
+    height: 20%;
+}
+
+#cadre {
+    padding: 30%;
+}
+
+#gridForm > div {
+    display: grid;
+    grid-template-columns: repeat(4, 15%);
+    grid-gap: 5px 35px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-left: 15vw;
+}
