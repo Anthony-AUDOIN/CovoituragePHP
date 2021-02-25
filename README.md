@@ -1,8 +1,6 @@
 ![En tete](image/CovoituragePHP.png)
 # Projet Universitaire - Covoiturage
 
-![forthebadge](https://forthebadge.com/images/badges/cc-0.svg) 
-
 Ce projet avait pour but d'appréhender le langage PHP avec un site de covoiturage contenant un système de connexion, d'ajout de parcours / ville et la recherche du trajet avec des filtres de recherche.
 
 ## Pour commencer
