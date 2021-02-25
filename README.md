@@ -11,11 +11,11 @@ Télécharger / clone le repository.
 
 ### Pré-requis
 
-Vous devez a minima avoir un logiciel permettant de créer un serveur local et d'avoir une base de données comme MAMP ou WAMP.
+Vous devez a minima avoir un logiciel permettant de créer un serveur local et d'avoir une base de données comme MAMP ou WAMP. De plus ajouter le repertoire du projet dans le repertoire serveur (Par exemple : C:\MAMP\htdocs). Pour finir, il faut ajouter le fichier [COVOITURAGE.sql](MySQL/COVOITURAGE.sql) dans PhpMyAdmin.
 
 ## Démarrage
 
-Démarrer MAMP ou WAMP en ajoutant au prealable le repertoire du projet dans le repertoire serveur (Par exemple : C:\MAMP\htdocs). Il vous suffit apres de lancer un navigateur et d'aller sur le localhost.
+Démarrer MAMP ou WAMP. Il vous suffit après de lancer un navigateur et d'aller sur le localhost.
 
 ## Fabriqué avec
 
