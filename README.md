@@ -19,11 +19,8 @@ Démarrer MAMP ou WAMP en ajoutant au prealable le repertoire du projet dans le 
 
 ## Fabriqué avec
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+* [MAMP](https://www.mamp.info/fr/windows/) - Logiciel serveur
+* [PHPStorm](https://www.jetbrains.com/fr-fr/phpstorm/) - IDE
 
 ## Contributing
 
