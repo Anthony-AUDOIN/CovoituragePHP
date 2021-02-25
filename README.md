@@ -1,36 +1,21 @@
 ![En tete](image/CovoituragePHP.png)
 # Projet Universitaire - Covoiturage
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/cc-0.svg) 
 
-Une petite description du projet
+Ce projet avait pour but d'appréhender le langage PHP avec un site de covoiturage contenant un système de connexion, d'ajout de parcours / ville et la recherche du trajet avec des filtres de recherche.
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Télécharger / clone le repository.
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
-
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+Vous devez a minima avoir un logiciel permettant de créer un serveur local et d'avoir une base de données comme MAMP ou WAMP.
 
 ## Démarrage
 
-Dites comment faire pour lancer votre projet
+Démarrer MAMP ou WAMP en ajoutant au prealable le repertoire du projet dans le repertoire serveur (Par exemple : C:\MAMP\htdocs). Il vous suffit apres de lancer un navigateur et d'aller sur le localhost.
 
 ## Fabriqué avec
 
@@ -45,7 +30,6 @@ _exemples :_
 Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
 
 ## Versions
-Listez les versions ici 
 _exemple :_
 **Dernière version stable :** 5.0
 **Dernière version :** 5.1
